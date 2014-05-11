@@ -1,4 +1,4 @@
-MyClass = class
+window.MyClass = class
 
   constructor: ->
     @property = true
