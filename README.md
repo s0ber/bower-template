@@ -60,3 +60,7 @@ MyPackageSourceFile = modula.require 'package_name/file'
 ### Source files
 
 You should list your source files in ```gulpfile.coffee```, gulp will use them for building compiled version, and karma will use them for running specs.
+
+### License
+
+Don't forget to edit LICENSE file before the release.
