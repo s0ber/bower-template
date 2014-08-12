@@ -10,8 +10,7 @@ Clone this repo, rename it, remove git files. Install **gulp** and **bower**, an
 
 ```
 cd ~/my_projects
-git clone git@github.com:s0ber/bower-template.git
-mv bower-template my_awesome_lib
+git clone git@github.com:s0ber/bower-template.git my_awesome_lib
 cd my_awesome_lib
 rm -rf .git
 
